@@ -73,9 +73,6 @@ The code includes:
    - LIME explanations for individual predictions
    - Partial Dependence Plots for key features
 
-4. **Report Generation**:
-   - Creates markdown report explaining the techniques
-   - Compares the advantages and disadvantages of each method
 
 ## Conclusions
 
@@ -85,8 +82,3 @@ Combining multiple XAI techniques provides a more comprehensive understanding of
 - Researchers identify important risk factors
 - Patients comprehend their personal risk profile
 
-## References
-
-- SHAP: Lundberg & Lee (2017). "A unified approach to interpreting model predictions."
-- LIME: Ribeiro et al. (2016). "Why should I trust you? Explaining the predictions of any classifier."
-- PDP: Friedman (2001). "Greedy function approximation: a gradient boosting machine." 
